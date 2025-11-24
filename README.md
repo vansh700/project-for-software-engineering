@@ -24,3 +24,7 @@ This project is a backend system for managing customer data and their purchase d
 
 
 <img width="1559" height="953" alt="image" src="https://github.com/user-attachments/assets/68ab7144-0243-4c21-867c-f197e0b64a31" />
+
+
+
+<img width="1096" height="232" alt="image" src="https://github.com/user-attachments/assets/2aeca57b-c614-4b19-b44a-4eb8c084afff" />
